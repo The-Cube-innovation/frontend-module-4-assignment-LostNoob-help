@@ -51,6 +51,23 @@ Use a media query so that on screens wider than 600px, the card's maximum width 
 
 Deliverable: Two files: profile_card.html and card_styles.css.
 
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<h1>How to make fudge</h1>
+<h3>prepare a pan by putting little oil on it </h3>
+<h3>combine choclolate chips sweetened condensed milk and butter the melt in a pan</h3>
+<h3>remove from the pan and mix vanila extrcat and salt</h3>
+<h3>pour the mixture in a mold put in the fridge for 2 hours </h3>
+<h3>remove and serve</h3>
+<img src="assets\fudge.png" alt="Picture was here">
+<h2>The End</h2>
+</head>
+<body>
+    
+</body>
+</html>
 
 
