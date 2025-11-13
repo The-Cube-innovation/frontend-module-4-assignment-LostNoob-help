@@ -62,7 +62,6 @@ Deliverable: Two files: profile_card.html and card_styles.css.
 <h3>remove from the pan and mix vanila extrcat and salt</h3>
 <h3>pour the mixture in a mold put in the fridge for 2 hours </h3>
 <h3>remove and serve</h3>
-<img src="assets\fudge.png" alt="Picture was here">
 <h2>The End</h2>
 </head>
 <body>
