@@ -68,5 +68,7 @@ Deliverable: Two files: profile_card.html and card_styles.css.
     
 </body>
 </html>
+h1 { color: blue; font-size: 16px; }
+
 
 
