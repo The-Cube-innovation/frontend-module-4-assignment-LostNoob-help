@@ -56,6 +56,12 @@ Deliverable: Two files: profile_card.html and card_styles.css.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!DOCTYPE html>
+<html lang="en">
+<head>  <link rel="stylesheet" href="style.css"></head>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <h1>How to make fudge</h1>
 <h3>prepare a pan by putting little oil on it </h3>
 <h3>combine choclolate chips sweetened condensed milk and butter the melt in a pan</h3>
@@ -68,7 +74,6 @@ Deliverable: Two files: profile_card.html and card_styles.css.
     
 </body>
 </html>
-h1 { color: blue; font-size: 16px; }
 
 
 
