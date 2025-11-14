@@ -58,22 +58,42 @@ Deliverable: Two files: profile_card.html and card_styles.css.
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!DOCTYPE html>
 <html lang="en">
-<head>  <link rel="stylesheet" href="style.css"></head>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<h1>How to make fudge</h1>
-<h3>prepare a pan by putting little oil on it </h3>
-<h3>combine choclolate chips sweetened condensed milk and butter the melt in a pan</h3>
-<h3>remove from the pan and mix vanila extrcat and salt</h3>
-<h3>pour the mixture in a mold put in the fridge for 2 hours </h3>
-<h3>remove and serve</h3>
-<h2>The End</h2>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>How to Make Fudge</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #fdf6e3;
+      margin: 20px;
+    }
+    h1 {
+      color: #8b0000;
+      text-align: center;
+    }
+    h3 {
+      color: #333;
+      margin-left: 20px;
+    }
+    h2 {
+      color: #006400;
+      text-align: center;
+      margin-top: 40px;
+    }
+  </style>
 </head>
 <body>
-    
+  <h1>How to make fudge</h1>
+  <h3>Prepare a pan by putting a little oil on it</h3>
+  <h3>Combine chocolate chips, sweetened condensed milk, and butter then melt in a pan</h3>
+  <h3>Remove from the pan and mix vanilla extract and salt</h3>
+  <h3>Pour the mixture in a mold and put in the fridge for 2 hours</h3>
+  <h3>Remove and serve</h3>
+  <h2>The End</h2>
 </body>
 </html>
+
 
 
 
